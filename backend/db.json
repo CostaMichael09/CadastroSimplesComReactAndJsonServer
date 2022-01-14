@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Michaels2",
+      "email": "cfaltroll@gmail.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Mariana",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "Flamengo",
+      "email": "bicampeao@maiordorj.com",
+      "id": 3
+    }
+  ]
+}
